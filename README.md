@@ -1,2 +1,8 @@
-# cadastro-de-alunos
-Desenvolvimento de um sistema de cadastro e armazenamento de dados para 50 alunos em um vetor, em linguagem C.
+Cadastro de Alunos
+
+Desenvolvimento de um sistema de cadastro e armazenamento de dados para 50 alunos em um vetor, com as seguintes funções:
+1- Cadastrar aluno.
+2- Consultar aluno pela matricula.
+3- Imprimir todos os alunos.
+4- Mostrar as médias de cada aluno.
+5- Mostrar os dados do aluno mais velho.
